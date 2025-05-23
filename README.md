@@ -22,5 +22,6 @@ This SQL-based Exploratory Data Analysis (EDA) project focuses on uncovering bus
  ![](measure_exploration.png)
  
  # Key Metrics Report:
+  ![](measure_exploration.png)
  # Magnitude Analysis:
  # Ranking Analysis:

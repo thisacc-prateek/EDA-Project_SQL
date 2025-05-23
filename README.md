@@ -10,9 +10,10 @@ This SQL-based Exploratory Data Analysis (EDA) project focuses on uncovering bus
 * [Ranking Analysis:](#ranking-analysis) Extracting top product in most/least ordered category, highest/lowest revenue generating product, etc.
 
 ### ER DIAGRAM
-![ER_Diagram](./image.png)
+![ER_Diagram](ER_Diagram.png)
 
 # Dimension Exploration
+
 
 
  
